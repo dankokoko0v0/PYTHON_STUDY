@@ -1,2 +1,2 @@
 # PYTHON_STUDY
-learning PYTHON ing
+https://github.com/iCSToCS/CSBook#python  学习书籍
